@@ -1,7 +1,5 @@
 ## wess-demo
 
-## retroa
-
 import os
 from skafossdk import *
 
